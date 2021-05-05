@@ -203,7 +203,6 @@ return [
 
         // Application Service Providers...
         Collective\Html\HtmlServiceProvider::class,
-        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
     ],
 
     /*
