@@ -11,6 +11,7 @@
     "require": {
         "php": "^7.3",
         "albertcht/invisible-recaptcha": "^1.9",
+        "barryvdh/laravel-ide-helper": "^2.6",
         "altek/accountant": "^1.2",
         "altek/eventually": "^1.0",
         "arcanedev/log-viewer": "^5.0",
@@ -32,6 +33,7 @@
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.2",
+        "barryvdh/laravel-ide-helper": "^2.6",
         "codedungeon/phpunit-result-printer": "^0.26.1",
         "facade/ignition-code-editor": "^1.0",
         "facade/ignition-self-diagnosis": "^1.0",
